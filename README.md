@@ -23,6 +23,9 @@
       
 
 应用题部分：
+
+
+
 sysinfo_recorder
   1.使用psutil包，实现对cpu信息的查询，并保存为dic类型的结构，便于查看和保存，把获取cpu信息的功能封装成函数
   2.保存成dic格式，key对应cpu的item,value对应item的值，并引用json将dic解析成json字符串，保存为文件
