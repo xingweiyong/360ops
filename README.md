@@ -1,6 +1,6 @@
 # 360ops
-password_cache
-  1.要实现远程登录主机不需要重复输入密码的功能，简单的实现方式即是配置ssh信任：
+1.password_cache
+  要实现远程登录主机不需要重复输入密码的功能，简单的实现方式即是配置ssh信任：
     1.crt远程连上主机
     2.配置hosts文件，vi /etc/hosts
     3.输入ip地址对应
