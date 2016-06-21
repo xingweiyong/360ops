@@ -31,4 +31,5 @@ sysinfo_recorder
   2.保存成dic格式，key对应cpu的item,value对应item的值，并引用json将dic解析成json字符串，保存为文件
   3。程序中使用 time.sleep(固定间隔)的形式，实现定时读取和保存cpu信息
 
-  
+group
+  尝试用python实现了二叉树结构，进行节点的存、取，add()函数 实现了对k,v节点的增加，get()实现从start节点开始其后的所有叶子节点的输出
